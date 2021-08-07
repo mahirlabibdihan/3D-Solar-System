@@ -1,2 +1,2 @@
 # 3D-Solar-System
-<img src="SolarSystem.png" width=900>
+<img src="SolarSystem.PNG" width=900>
