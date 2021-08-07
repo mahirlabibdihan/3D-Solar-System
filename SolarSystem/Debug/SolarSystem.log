@@ -1,22 +1,22 @@
 ﻿  main.cpp
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(37,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(41,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(41,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(50,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(81,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(95,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(104,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(110,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(112,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(118,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(120,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(126,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(128,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(133,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(135,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(140,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(142,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(147,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(149,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\Fiverr\Alya\SolarSystem\SolarSystem\main.cpp(154,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-  SolarSystem.vcxproj -> D:\Fiverr\Alya\SolarSystem\Debug\SolarSystem.exe
+D:\Github\SolarSystem\SolarSystem\main.cpp(38,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(42,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(42,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(51,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(84,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(98,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(107,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(113,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(115,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(121,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(123,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(129,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(131,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(136,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(138,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(143,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(145,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(150,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\SolarSystem\SolarSystem\main.cpp(152,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\SolarSystem\SolarSystem\main.cpp(157,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  SolarSystem.vcxproj -> D:\Github\SolarSystem\Debug\SolarSystem.exe

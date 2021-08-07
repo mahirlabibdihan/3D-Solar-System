@@ -4,6 +4,7 @@
 #define WIDTH 1200
 #define PI (acos(-1.0))
 
+
 GLfloat r = 0;
 GLfloat X = 0, Y = 0;
 
@@ -60,18 +61,20 @@ void display()
 {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-	
+	/*
 	glColor3f(1, 1, 1);
 	line(-WIDTH/2,Y,WIDTH/2,Y);
 	line(X,-HEIGHT/2,X,HEIGHT/2);
+	*/
 
 	glPushMatrix();
 	glTranslatef(X, Y, 0);
 
-	glColor4f(1, 1, 1,0.5);
+	/*glColor4f(1, 1, 1, 0.5);
 	rectangle(-590, 400, 360, 70);
 	glColor3f(0, 0, 0);
 	text(-580, 420, "THE SOLAR SYSTEM", 0.25);
+	*/
 	
 	glRotatef(r, 1, 0, 0);
 	glRotatef(r, 0, 1, 0);
